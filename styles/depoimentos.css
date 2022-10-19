@@ -1,0 +1,30 @@
+.depoimentos{
+    text-align: center;
+    background: var(--vermelho-claro);
+    max-width: 85%;
+    margin: 3em auto 5em;
+    padding: 4em 0;
+    border-radius: 16px;
+}
+
+#subtitulo__depoimentos{
+    font-size: 14px;
+}
+
+#titulo__depoimentos{
+    font-size: 36px;
+}
+
+.imagem-perfil{
+    margin-top: 1em;
+}
+
+.dev-nome{
+    color: var(--preto);
+    margin: 1em 0;
+}
+
+.dev-informacao{
+    font-size: 14px;
+    font-weight: 400;
+}
