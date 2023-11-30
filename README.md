@@ -1,2 +1,2 @@
 # OptimusTech
-7DaysOfCode - HTML/CSS
+Layout - Lading page HTML CSS
